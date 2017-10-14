@@ -1,0 +1,3 @@
+[submodule "Libraries/castle"]
+	path = Libraries/castle
+	url = https://github.com/armory3d/castle

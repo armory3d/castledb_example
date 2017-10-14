@@ -1,0 +1,36 @@
+{
+	"sheets": [
+		{
+			"name": "objects",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "4",
+					"name": "location_z",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"id": "cube1",
+					"location_z": 0.2
+				},
+				{
+					"id": "cube2",
+					"location_z": 1
+				},
+				{
+					"id": "cube3",
+					"location_z": 0.6
+				}
+			],
+			"separators": [],
+			"props": {}
+		}
+	],
+	"customTypes": [],
+	"compress": false
+}
